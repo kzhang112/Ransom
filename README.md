@@ -1,9 +1,10 @@
 # Shall We Play a Game: Studying Human & Ransomware Interaction
-##Security &amp; Human Behavior - Fall 2021
-###Problem Statement and Motivation:
+## Security &amp; Human Behavior - Fall 2021
+
+### Problem Statement and Motivation:
 Ransomware has become endemic in the computer security world, opening up a new avenue for economic success as a cybercriminal. The Cybersecurity & Infrastructure Security Agency (CISA) has classified ransomware as a threat to both public and private entities, “causing data loss, privacy concerns, and costing billions of dollars a year”. With weekly attacks on corporations, infrastructure, and the public, individuals cannot do much to stem the tide. CISA’s “Reduce the Risk of Ransomware” highlights mitigation techniques, but there is a need for greater understanding of the process of a ransomware attack from the human perspective. Fundamentally, a security breach is a human event, with real people following a forensic trail, discovering their services are off-line, and dealing with a hostile actor. While this may seem like an unimportant feature of an attack, understanding the human perspective of a ransomware attack process could be crucial in recovering lost data and acting as quickly as possible. Our problem, more succinctly stated, is as follows: What, if any, are the overlooked human-dependent features of a ransomware attack?
 
-###Conclusions
+### Conclusions
   The metrics we examined are the ultimate choices made (paying, negotiating, or denying the ransomware group), as well
 as user rationality (making economic decisions) and user sentiments.
   There is a clear relationship between the rationality of a participant and the likelihood that they are willing to pay the attackers. Participants who are the least business-rationale are the most likely to deny the attackers immediately. Participants are strongly attracted to contacting the FBI over immediately paying the ransom, or immediately denying the ransom. There are a number of small improvements one could make for a future study. We did not include an exact income, cash reserve, and profit loss score over time. While we had several dollar figures interspersed, it may have been more effective to show the exact value to the user for every action that they take. This would have even more aligned their incentives with the real world, and likely would have made them more consider each option as they were presented. This was indicated in the feedback form in two answers. Further, it may have been easier to make the user choose a number as a response instead of a
